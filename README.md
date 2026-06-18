@@ -6,8 +6,6 @@ This portfolio sample summarizes selected outputs from a Global Burden of Diseas
 
 The aim of this sample is to demonstrate interpretation of GBD epidemiological outputs, including age-standardized burden indicators, temporal trends, geographic distribution, socio-demographic gradients, age/sex burden patterns, attributable risk factors, and projection outputs.
 
-Mendelian randomization outputs were intentionally excluded from this portfolio sample.
-
 ---
 
 ## Study Overview
