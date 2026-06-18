@@ -302,22 +302,3 @@ The main results can be summarized as follows:
 Overall, the results support a public-health interpretation in which asthma burden is improving globally in standardized terms, but not uniformly. Regions with high prevalence require long-term disease management strategies, while regions with high mortality and DALY burden require improved access to diagnosis, treatment, and acute care. The increasing contribution of high BMI also suggests that metabolic and lifestyle risk reduction may become increasingly relevant to asthma burden control.
 
 ---
-
-## Excluded Outputs
-
-The following outputs are intentionally excluded from this portfolio sample:
-
-* Mendelian randomization figures
-* Genetic causality outputs
-* Raw GBD datasets
-* Full statistical code
-* Internal analysis files
-* Unpublished or confidential materials
-
-This sample focuses only on GBD-based epidemiological figures, Markdown-formatted tables, and results-style interpretation.
-
----
-
-## Data and Confidentiality Statement
-
-This repository contains selected figure outputs and Markdown-formatted summaries for portfolio demonstration only. No raw datasets, patient-level data, restricted files, confidential materials, or unpublished manuscripts are included.
